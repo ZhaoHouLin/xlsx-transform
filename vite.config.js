@@ -8,11 +8,7 @@ import path from 'node:path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [vue(), express({
-    // the server files export a middleware as default
-    // this config can be a glob
-    middlewareFiles: './server',
-  }),],
+  plugins: [vue()],
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
@@ -24,10 +20,4 @@ export default defineConfig({
       }
     }
   },
-  // build: {
-  //   manifest: true,
-  //   rollupOptions: {
-  //     input: './src/server/main.js',
-  //   },
-  // },
 })
