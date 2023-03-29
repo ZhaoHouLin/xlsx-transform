@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  xlsx-transform-server:
+    build: ./xlsx-transform-server
+    ports:
+      - "3094:3094"
+  vmlist-web:
+    build: ./
+    ports:
+      - "3030:80"
+    depends_on:
+      - xlsx-transform-server

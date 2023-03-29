@@ -1,0 +1,4802 @@
+[
+  {
+    "VM名稱": "DOCIMG",
+    "VM IP": "10.192.168.216",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "京玉_公文影像2012R2正式機_171.112",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "test windwos",
+    "VM IP": "192.168.171.8",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DOCAP1",
+    "VM IP": "10.192.168.213",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "京玉_公文2012R2正式機_171.213",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DOCAP2",
+    "VM IP": "169.254.25.119",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "京玉_公文線上簽核2012R2正式機_171.113",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DOCAP3",
+    "VM IP": "10.192.168.215",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "京玉_公文線上簽核2012R2正式機_171.216",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DOCDL",
+    "VM IP": "10.192.168.217",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "京玉_公文大附件下載2012R2正式機_171.214",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DOCIMG2016待刪除",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DOCVCSA60",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "公文主機_vcsa 6.0_192.168.171.110",
+    "OS版本": "SUSE Linux Enterprise 11 (64-bit)"
+  },
+  {
+    "VM名稱": "docvcsa60-new",
+    "VM IP": "192.168.171.110",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.110",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": "SUSE Linux Enterprise 11 (64-bit)"
+  },
+  {
+    "VM名稱": "SPServer2016Web.cdc.gov.tw",
+    "VM IP": "192.168.171.145",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.130",
+    "VM附註": "宥安_sharepoint WEB (171.145) (開機順序 3)",
+    "OS版本": "Microsoft Windows Server 2016 (64-bit)"
+  },
+  {
+    "VM名稱": "SPServer2016OOS.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.130",
+    "VM附註": "宥安_sharepoint OOS (171.147) (開機順序 2)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SPServer2016AP.cdc.gov.tw",
+    "VM IP": "192.168.171.146",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.130",
+    "VM附註": "宥安_sharepoint AP (171.146) (開機順序 4)",
+    "OS版本": "Microsoft Windows Server 2016 (64-bit)"
+  },
+  {
+    "VM名稱": "GIS",
+    "VM IP": "fe80::6875:c5a:fb29:8ab7",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.14",
+    "VM附註": "庭健_GIS2008R2正式機_203.65.72.7",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "VICP(關機保留不備份)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.14",
+    "VM附註": "育昇_VICP2012R2正式機_192.168.171.171",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "FlowConverter(關機保留)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.14",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Algosec-OVF-284-320-231(關機保留)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.14",
+    "VM附註": "鈞誠_防火牆記錄_192.168.173.34  (關機觀察5/1)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "VICP-old(關機保留不備份)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.14",
+    "VM附註": "不開機",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Win10Console(關機保留)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.14",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "DOC2016",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "Docvcsa-NEW",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "DOC2016file1-21H1",
+    "VM IP": "192.168.171.184",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_二代公文_檔案1_171.184_win 10",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "Docvcsa67",
+    "VM IP": "192.168.171.158",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": "VMware Photon OS (64-bit)"
+  },
+  {
+    "VM名稱": "DOC2016AP4-new",
+    "VM IP": "192.168.171.217",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_二代公文_AP4_ 171.217_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DOC2016AP4",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "不能刪除 有VMDK存在",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "DOC2016AP3",
+    "VM IP": "192.168.88.3",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_二代公文_AP3_ 88.3_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DOC2016AP2",
+    "VM IP": "192.168.88.2",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_二代公文_AP2_88.2_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DOC2016AP1",
+    "VM IP": "192.168.88.1",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_二代公文_AP1 _88.1_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DOC2016file2-21H1",
+    "VM IP": "192.168.171.185",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_二代公文_檔案2_171.185_win 10",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "RPD212",
+    "VM IP": "192.168.171.201",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_RDP_二代公文_171.201_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SPServer2016OOS.cdc.gov.tw",
+    "VM IP": "192.168.171.147",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "宥安_sharepoint OOS (171.147) (開機順序 2)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DOC2016file3-21H1",
+    "VM IP": "192.168.171.225",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.158",
+    "VM附註": "京玉_二代公文_檔案3_171.225_win 10",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "62-ARCserve_Main",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.202",
+    "VM附註": "銘鴻_Arcserve RPS1_171.197",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "kiosk-sharedisk",
+    "VM IP": "192.168.171.100",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_KIOSK-sharedisk_ububtu18.04_171.100",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-AP2.cdc.gov.tw",
+    "VM IP": "192.168.66.142",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.142",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-AP1.cdc.gov.tw",
+    "VM IP": "192.168.66.141",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.141",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-2021TEST",
+    "VM IP": "192.168.173.125",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS測試機_WS2016_全國性預防接種_173.",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIDDC",
+    "VM IP": "192.168.171.79",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_法傳後台中心_171.79_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NEWAD0-2016",
+    "VM IP": "192.168.171.43",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宥安_AD01_win2016_171.43",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "MOFG2GQuery",
+    "VM IP": "203.65.72.92",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊__72.92(介接關務署用)_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "LIMS20-NIDRS",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_實驗室管理系統_WEBAP_72.185_ws2016",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "LIMS20",
+    "VM IP": "192.168.173.76",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_實驗室管理系統_WEBAP_173.76_ws2016(測試用)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "LEED-CDC-WIN10",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_打卡系統_WIN10_171.136",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "LCARE2016",
+    "VM IP": "203.65.72.50",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_LCARE_(正式機)長照機構感染管制系統_72.50_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "LABOR2012",
+    "VM IP": "2002:cb41:483b::cb41:483b",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_外勞_外勞HP2012R2正式機_72.59",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-AP5.cdc.gov.tw",
+    "VM IP": "192.168.66.225",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.225",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "kiosk",
+    "VM IP": "192.168.171.209",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_KIOSK_windwos2016_171.209",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ISSNEW",
+    "VM IP": "192.168.173.158",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_新人口密集_173.158_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Hylib-node1",
+    "VM IP": "192.168.171.241",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "志雄_圖書館系統master_171.241_ROCKY-linux8",
+    "OS版本": "CentOS 8 (64-bit)"
+  },
+  {
+    "VM名稱": "SS-ISO",
+    "VM IP": "203.65.72.35",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_TRAOD_˙72.35_ubuntu20.4",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "ST share Disk",
+    "VM IP": "192.168.88.11",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_ST Server_centos 6_API資料交換_88.11",
+    "OS版本": "CentOS 6 (64-bit)"
+  },
+  {
+    "VM名稱": "HYlib-master",
+    "VM IP": "192.168.171.240",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "志雄_圖書館系統master_171.240_ROCKY-linux8",
+    "OS版本": "CentOS 8 (64-bit)"
+  },
+  {
+    "VM名稱": "Hylib",
+    "VM IP": "192.168.171.243",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "志雄_圖書館系統_171.243_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HRcovid19",
+    "VM IP": "203.65.72.94",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_民眾自覺性通報_HRCOVID_˙72.94_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "hostmonitor_linux",
+    "VM IP": "203.65.72.93",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "Hl7web1",
+    "VM IP": "203.65.72.78",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "啟勝_防疫資訊交換平台(新主機升級用)HL7_72.78_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "LABOR2012-測試機",
+    "VM IP": "192.168.173.124",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_外勞_外勞HP2012R2測試機_173.124",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-Trans7",
+    "VM IP": "192.168.172.5",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_smartida-trans1_Windows2016_76.111",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NTP2016",
+    "VM IP": "192.168.173.98",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_國有公用財產_NTP2016_171.98  _臨時IP_173.98",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-API2",
+    "VM IP": "192.168.66.131",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.131",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-API1",
+    "VM IP": "192.168.66.130",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.130",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-AP6.cdc.gov.tw",
+    "VM IP": "192.168.66.226",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.226",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "RIS1.cdc.gov.tw",
+    "VM IP": "192.168.66.143",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.143",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "RIS2.cdc.gov.tw",
+    "VM IP": "192.168.66.229",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.229",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "RPT.cdc.gov.tw",
+    "VM IP": "192.168.66.150",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.150",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "selftestdist",
+    "VM IP": "203.65.72.96",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "EIC洪世旻_selftestdist_ubuntu_EIC洪世旻_72.83",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "SelftestdistDB",
+    "VM IP": "192.168.171.181",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "EIC(洪士旻)_selftest_171.181_快篩試劑發放紀錄DB_ubuntu20.04",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-Trans5",
+    "VM IP": "192.168.172.3",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_smartida-trans1_Windows2016_76.112",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-AP3.cdc.gov.tw",
+    "VM IP": "192.168.66.147",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.147",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "HL7QSAP",
+    "VM IP": "203.65.72.65",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "啟勝_防疫資訊平台webapI 正式機_72.65_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-AP4.cdc.gov.tw",
+    "VM IP": "192.168.66.148",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.148",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-Trans8",
+    "VM IP": "192.168.172.6",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_smartida-trans1_Windows2016_76.111",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-Trans9",
+    "VM IP": "192.168.172.7",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_smartida-trans1_Windows2016_76.111",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "smisap1",
+    "VM IP": "203.65.72.130",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "貝盈_WS2016_防疫物資管理系統AP1_72.130",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "smisap2",
+    "VM IP": "203.65.72.132",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "貝盈_WS2016_防疫物資管理系統AP2_72.132",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SQMS-AP1",
+    "VM IP": "203.65.72.138",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊 _SQMS-AP1_72.138_windows2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SQMS-AP2",
+    "VM IP": "192.168.76.22",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊 _SQMS-AP1_76.22_windows2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SQMS-API呼叫用",
+    "VM IP": "203.65.72.107",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊 _SQMS-AP(api呼叫用)_72.107_windows2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SQMS-Schedule",
+    "VM IP": "192.168.171.89",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_SQMS檢驗報告_win2016_171.89",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SQMS-Schedule-test",
+    "VM IP": "192.168.173.44",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_SQMS檢驗報告測試機_win2016_173.44",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Oracle_service",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "聲和_oracle_service_173.166_linux8_2022081˙7",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SmartIDA-Trans6",
+    "VM IP": "192.168.172.4",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆_smartida-trans1_Windows2016_76.113",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-opendata-portal",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_opendata_173.156_centos7",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "crib-c",
+    "VM IP": "203.65.72.203",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_校園流感CIVS_crib-c_203.65.72.203",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "COVIDTEST-測試用",
+    "VM IP": "192.168.173.84",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "民眾COVID-19檢驗結果查詢網站_ubuntu_EIC洪世旻_72.83(測試機)",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "covidtest",
+    "VM IP": "203.65.72.83",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "民眾COVID-19檢驗結果查詢網站_ubuntu_EIC洪世旻_72.83",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "CIC",
+    "VM IP": "192.168.171.166",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "7F銘軒EIC_ 社區採檢彙整系統_171.166_WIN2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Centrallab",
+    "VM IP": "203.65.72.85",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "陳柏翰_cgMLST平台_72.85_windows2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "CDCTBDOTAPP2016",
+    "VM IP": "203.65.72.55",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "芳如_雲端都治系統_雲端都治系統後端正式機_72.55_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdctbdotapp2",
+    "VM IP": "203.65.72.49",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "芳如_雲端APP2.0_72.49_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Cdcssi",
+    "VM IP": "203.65.72.100",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "CDCSSI_(庭健)人口密集傳染病監視作業_72.100_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "CdcSedata",
+    "VM IP": "192.168.172.10",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "CDC-RESEARCH-clone",
+    "VM IP": "fe80::4c74:2d20:2530:6434",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "聲和_111年度研究發展成果管理軟體_173.X_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "CDC-RESEARCH",
+    "VM IP": "192.168.173.42",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "聲和_111年度研究發展成果管理軟體_173.X_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "fogligh",
+    "VM IP": "192.168.171.206",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "聲和_foglish 資料庫分機POC_171.206_windows 2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdcoracle19c",
+    "VM IP": "192.168.173.154",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "聲和_oracle測試主機_173.154_linux 20221020",
+    "OS版本": "Oracle Linux 7 (64-bit)"
+  },
+  {
+    "VM名稱": "Dgbassalary-new",
+    "VM IP": "192.168.171.61",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_主計薪資系統_ws2016_171.61",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-opendata-data-new",
+    "VM IP": "192.168.173.155",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "cdcnfccar3",
+    "VM IP": "203.65.72.82",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "芳如_關懷員app_72.82._win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdcfortifyweb-new",
+    "VM IP": "192.168.171.77",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "佳學_fortify_弱掃主機_win2016_171.77",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-contract-ap1-NEW",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "貝盈_二代開口合約正式機_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-contract-ap1(可刪除)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "貝盈_二代開口合約測試機_173.41(可關機刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-contract-ap1",
+    "VM IP": "192.168.171.52",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "貝盈_二代開口合約正式機_171.52_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "CDCBiztalk.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_BIZTALK_BIZTALK_72.26",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "BTS",
+    "VM IP": "203.65.72.27",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_Biz Talk Server_72.27_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "BMCAP",
+    "VM IP": "203.65.72.53",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "京玉_BMCAP_感染性材料簽審通關_72.53_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Azure DevOps",
+    "VM IP": "192.168.171.190",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "佳學_DEVOPS_win2016_171.190",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "APDB.cdc.gov.tw",
+    "VM IP": "10.192.168.46",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "志雄_APDB資料庫_171.46_win 2008R2",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "antiflu-new",
+    "VM IP": "192.168.173.35",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_WWW_全球資訊網2016測試機_173.35",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdcoracletest",
+    "VM IP": "192.168.173.7",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "聲和_oracle法傳測試主機_173.˙7_linux 20221018",
+    "OS版本": "Oracle Linux 7 (64-bit)"
+  },
+  {
+    "VM名稱": "ETLAP2-1",
+    "VM IP": "192.168.171.239",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "啟勝_DW_ETL_WS2012_疫情資料倉儲統_171.239",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "HL7AP1",
+    "VM IP": "192.168.171.163",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "啟勝_急診傳染病通報系統_171.163_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HIVM",
+    "VM IP": "203.65.72.71",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_HIVM_新版HIVM2016_203.65.72.71_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HIVA",
+    "VM IP": "203.65.72.16",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_HIVA_新版HIVA2016_203.65.72.16_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HIS3.cdc.gov.tw",
+    "VM IP": "192.168.66.32",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.32",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "HIS2.cdc.gov.tw",
+    "VM IP": "192.168.66.228",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.228",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "HIS1.cdc.gov.tw",
+    "VM IP": "192.168.66.144",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.144",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "GenIn",
+    "VM IP": "203.65.72.142",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "貝盈_感染及基因資料庫管理分享平台_GenIN_72.142_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "STEAT",
+    "VM IP": "192.168.173.48",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_ST Server_centos 6_測試機_173.X",
+    "OS版本": "CentOS 6 (64-bit)"
+  },
+  {
+    "VM名稱": "FILE1.cdc.gov.tw",
+    "VM IP": "192.168.66.149",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.149",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "LABORHP2012",
+    "VM IP": "2002:cb41:481e::cb41:481e",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_外勞_外勞HP2012R2正式機_72.30",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "facetech-test",
+    "VM IP": "192.168.173.43",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_人臉辨識_測試機 _171.109_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "facetech",
+    "VM IP": "192.168.171.119",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_人臉辨識 _171.109_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "crib-c2",
+    "VM IP": "203.65.72.202",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_校園流感CIVS_crib-c2_203.65.72.202",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "ETLAP57BK",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "ETLAP_171.82_(備援機)_啟勝_win2012R2(20230301關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Dgbassalary",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_主計薪資系統_ws2016_171.51(舊?)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ETLAP2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "待刪除",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EMGAP1",
+    "VM IP": "192.168.171.162",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "啟勝_急診傳染病通報系統_171.162_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-VICA",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "鋆立_VICA_WS2016_ _171.151",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-RIS2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.229",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DR-NIIS-API2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.131",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DR-NIIS-AP3",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.147",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DRIP2016",
+    "VM IP": "192.168.173.49",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-HIVM",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_HIVM_新版HIVM2016_203.65.72.71_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-HIVA",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_HIVA_新版HIVA2016_203.65.72.16_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-HIS2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.228",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "Dgbassalary-test",
+    "VM IP": "192.168.173.16",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_主計薪資系統_ws2016_171.61",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HL7CAPP",
+    "VM IP": "192.168.172.9",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "啟勝_防疫資訊平台171.75 升級主機_172.9_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EZreport",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "振芳_EZreport_Windows2016_72.103國光(1100817關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "window2016母版-測試用",
+    "VM IP": "203.65.72.129",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "TBSchedule",
+    "VM IP": "203.65.72.88",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "芳如_TB自動化排程正式機_72.88_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "vCLS-1d080d8d-ee0c-410e-b6c7-9b3d7ea6b15c",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "vSphere Cluster Service VM is deployed from an OVA with a minimal installed profile of PhotonOS. vSphere Cluster Service manages the resources, power state and availability of these VMs. vSphere Cluster Service VMs are required for maintaining the health ",
+    "OS版本": "VMware Photon OS (64-bit)"
+  },
+  {
+    "VM名稱": "veeam console",
+    "VM IP": "192.168.171.215",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "聲和_veeambackup主機 _171.215",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VADC",
+    "VM IP": "192.168.171.25",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_vadc _WIN2016_171.25",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "vCLS-b6298d78-4c9d-4704-91c9-2d47a92a6373",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "vSphere Cluster Service VM is deployed from an OVA with a minimal installed profile of PhotonOS. vSphere Cluster Service manages the resources, power state and availability of these VMs. vSphere Cluster Service VMs are required for maintaining the health ",
+    "OS版本": "VMware Photon OS (64-bit)"
+  },
+  {
+    "VM名稱": "VACC1.cdc.gov.tw",
+    "VM IP": "192.168.66.145",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.145",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "TrustView",
+    "VM IP": "192.168.172.23",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VxRail Manager (legacy-4.7.536)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "vxrail 增加節點方式改為 porxy host 方式 選擇 node_6j",
+    "OS版本": "SUSE Linux Enterprise 12 (64-bit)"
+  },
+  {
+    "VM名稱": "TFS-教育訓練用",
+    "VM IP": "192.168.173.131",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "TFS-教育訓練用173.",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VADC02",
+    "VM IP": "192.168.171.17",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_vadc _ubuntu_171.17",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "Win2019_ANCHOR_V2.5.2.2",
+    "VM IP": "192.168.171.149",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "東村_ANCHOR1_win2019_171.149",
+    "OS版本": "Microsoft Windows Server 2019 (64-bit)"
+  },
+  {
+    "VM名稱": "vCLS-1fe4e67c-4cf4-4efd-a212-5d8220dbaeaf",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "vSphere Cluster Service VM is deployed from an OVA with a minimal installed profile of PhotonOS. vSphere Cluster Service manages the resources, power state and availability of these VMs. vSphere Cluster Service VMs are required for maintaining the health ",
+    "OS版本": "VMware Photon OS (64-bit)"
+  },
+  {
+    "VM名稱": "VxRail Manager",
+    "VM IP": "192.168.171.29",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "SUSE Linux Enterprise 15 (64-bit)"
+  },
+  {
+    "VM名稱": "VMware vRealize Log Insight",
+    "VM IP": "192.168.171.135",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "VMware vRealize Log Insight",
+    "OS版本": "SUSE Linux Enterprise 11 (64-bit)"
+  },
+  {
+    "VM名稱": "VICA-AP",
+    "VM IP": "203.65.72.151",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "鋆立_VICA_WS2016_ _72.151",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VMware vCenter Server Platform Services Controller",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "VMware vCenter Server Appliance (legacy-6.7.0)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "windwos2016-source",
+    "VM IP": "203.65.72.58",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VMware vCenter Server Appliance",
+    "VM IP": "192.168.171.23",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": "VMware Photon OS (64-bit)"
+  },
+  {
+    "VM名稱": "WS-IN.cdc.gov.tw",
+    "VM IP": "192.168.66.223",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶_NIIS_WS2016_全國性預防接種_66.223",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "WSUS2016",
+    "VM IP": "203.65.72.5",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宥安_wsus2016_原實體機轉虛擬機_203.65.72.5",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ZoneDB-Vxrail",
+    "VM IP": "192.168.171.177",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_zonedb分流_171.177_ubuntu16.04",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "TGBIS_W_Server",
+    "VM IP": "203.65.72.170",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "芳如_TGBIS_W_203.65.72.170_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "TraceAPThird",
+    "VM IP": "192.168.171.5",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_zone(報表機)__171.5_Ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "STEDGE2",
+    "VM IP": "192.168.76.155",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_API_檔案傳輸中介主機_76.155",
+    "OS版本": "CentOS 6 (64-bit)"
+  },
+  {
+    "VM名稱": "VADC01",
+    "VM IP": "192.168.171.191",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_vadc01 _WIN2016_171.191",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VAERS-AP",
+    "VM IP": "203.65.72.105",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "鋆立_VAERS_WS2016_  _72.105",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Systexapi",
+    "VM IP": "192.168.173.128",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "宗旆 疫苗預約平台 api _173.128_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VADC04",
+    "VM IP": "192.168.171.196",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_vadc04 _WIN2016_171.196",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "STSRV2",
+    "VM IP": "192.168.88.13",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "美惠_API_傳輸檔案管理主機88.13",
+    "OS版本": "CentOS 6 (64-bit)"
+  },
+  {
+    "VM名稱": "VADCTEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "vadc測試機 _WIN2016_于珊_173.123",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Taiwan_V-watch",
+    "VM IP": "192.168.173.92",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶 _vwatch_173.92_ubuntu_測試機",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "Taiwan-Vwatch",
+    "VM IP": "192.168.172.14",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "姿伶 _vwatch_172.14_ubuntu22_b38e",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "VADC03",
+    "VM IP": "192.168.171.195",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "于珊_vadc03 _WIN2016_171.195",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "TraceAPsecond",
+    "VM IP": "192.168.171.3",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_zone分流機2__171.3_Ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "TraceAPFifth",
+    "VM IP": "192.168.171.183",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_zone分流機5__171.183_Ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "TraceAPFourth",
+    "VM IP": "192.168.171.180",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.23",
+    "VM附註": "庭健_zone分流機4__171.180_Ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "SLOW2035",
+    "VM IP": "203.65.72.44",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "芳如_結核病追蹤管理系統_測試機_72.44",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "3PAR_VSP_1640731",
+    "VM IP": "192.168.69.69",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "3par 7200 ESXI (6C) 69.69",
+    "OS版本": "Red Hat Enterprise Linux 6 (32-bit)"
+  },
+  {
+    "VM名稱": "3PAR_VSP_1640647",
+    "VM IP": "192.168.69.66",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "3par 7200 ESXI (3B) 69.66",
+    "OS版本": "Red Hat Enterprise Linux 6 (32-bit)"
+  },
+  {
+    "VM名稱": "3PAR_VSP_1640579",
+    "VM IP": "192.168.69.68",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "3par 7200 ESXI (3B) 69.68",
+    "OS版本": "Red Hat Enterprise Linux 6 (32-bit)"
+  },
+  {
+    "VM名稱": "3PAR_VSP_1640578",
+    "VM IP": "192.168.69.67",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "3par 7200 ESXI (3B) 69.67",
+    "OS版本": "Red Hat Enterprise Linux 6 (32-bit)"
+  },
+  {
+    "VM名稱": "NEWTB6",
+    "VM IP": "203.65.72.43",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "芳如_中央傳染病2012正式機_72.43",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "TBCENTER3",
+    "VM IP": "192.168.171.93",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "芳如_中央傳染病統計資料庫2012正式機_171.93",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "TBProductionAP3",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "芳如_TB自動化排程2012正式機_72.112(關機刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "TBTableau(關機保留)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.230",
+    "VM附註": "芳如_視覺化商業分析軟體2012正式機_72.51(關機保留)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "arcserve-cht",
+    "VM IP": "10.192.168.23",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.231",
+    "VM附註": "銘鴻_Arcserve RPS2_171.33",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "veeambackup",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.231",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "VOD2019",
+    "VM IP": "192.168.171.127",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "志雄_vod_新版VOD(windows)_171.127",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EECAP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_法傳電子病歷_EECAP_WS2012_72.160(1101103關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "followup",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_食媒性傳染病資訊交流平台_TeamKube_WS2008_72.172",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "EA-XDK02",
+    "VM IP": "192.168.173.173",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機_173.173_ROCKY_linux_20221114_534e",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "Fujit_ServerView",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "藍新2019維運優規 Fujitsu Server 集中式管理軟體_ svom_171.129(IP已停用)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "e-paper",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_epaper_epaper疫情電子報_171.40_CentOS7(1110728關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "EA-XDK04",
+    "VM IP": "192.168.173.175",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機_173.175_ROCKY_20221114_534e",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "EIRAP",
+    "VM IP": "192.168.171.120",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_重要群聚_重要群聚2008R2正式機_171.120",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "EA-XHAS01",
+    "VM IP": "192.168.173.176",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機_173.176_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EA-XSFTP01",
+    "VM IP": "192.168.173.169",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機_173.169",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "EIC2019NCOV",
+    "VM IP": "192.168.171.111",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "EIC_EIC2019NCOV_171.111 (1小2大)",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "ETL",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_ETL_171.227_WS2012(20230301關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "EICSQL",
+    "VM IP": "192.168.171.142",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "舜琦_EICSQL_EICSQL_171.142",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EIP_OANETAP2019",
+    "VM IP": "192.168.171.94",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_人事表單正式機_171.94_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EIP2020",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_173.70",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "EA-XDK03",
+    "VM IP": "192.168.173.174",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機_173.174_ROCKY_20221114_534e",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "IDATEST2008",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_IDA_法傳2008R2測試機_171.35 (11/2關 11/9刪除)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "HL7NQSTEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_HL7NQS_2012R2測試機_173.87(20221207停用)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "HPE_OneView_4.20.01_ESXi_Z7550-96565",
+    "VM IP": "192.168.171.140",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "藍新2019維運優規 HPE ONE VIEW Server 集中式管理軟體_171.140",
+    "OS版本": "Other 2.6.x Linux (64-bit)"
+  },
+  {
+    "VM名稱": "HR_OANETAP2019",
+    "VM IP": "192.168.171.103",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_人事表單正式機_171.103_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HRFORM",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_人事行政_人事行政服務系統2008R2正式機_171.114(關機保留)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "HRFORM2020",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_人事行政_人事行政服務系統",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ICPTEST2016",
+    "VM IP": "192.168.173.52",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_ICP升級測試機_192.167.173.52",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "horizon",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "Horizon iteams",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "IDADataVerify",
+    "VM IP": "192.168.171.12",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_IDA系統_windwos2016_171.12",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "hmail2",
+    "VM IP": "192.168.171.30",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "通報smtp主機_171.30",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "info",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宇倫_對外資料介接_對外資料介接正式機_72.109 (20230302關機)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "INFTest2.cdc.gov.tw",
+    "VM IP": "192.168.173.71",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_傳染病API報表主機_ws2016_173.71",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "intra2016",
+    "VM IP": "192.168.171.27",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宥安_內網_內網正式機2016_171.27",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "intra2016-test",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宥安_內網_內網測試機2016_173.99",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "INTRAAP1",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "怡慧_INTRA1_內網資安測驗_171.11(20230310關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "intranetAP.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "ISO",
+    "VM IP": "192.168.171.34",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_ISO_ISO正式機_171.34",
+    "OS版本": "Microsoft Windows Server 2003 Standard (32-bit)"
+  },
+  {
+    "VM名稱": "IDA4TEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_傳染病通報AP主機_IDA4TEST_192.168.171.163 (1101005關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "veeamone",
+    "VM IP": "192.168.171.187",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_VeeamOne_正式機_171.187",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "gbce2012test",
+    "VM IP": "192.168.171.167",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_經費動支系統正式機_171.167_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "GBCEAP2.cdc.gov.tw",
+    "VM IP": "192.168.171.169",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_經費核銷_經費核銷正式機_171.169_WS2003(不常用)",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "GCBAP",
+    "VM IP": "192.168.171.102",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宥安_GCB_centos_171.102",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "GEN",
+    "VM IP": "192.168.173.126",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈_ws2016_gen_基因資料庫測試機173.126",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "hasaptest2.cdc.gov.tw",
+    "VM IP": "192.168.173.40",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈_追管系統_2016測試機_173.40_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "HelpDesk",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_食媒性傳染病資訊交流平台_HelpDesk_WS2008R2_72.173(未確定)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "Horizon-UAG",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "EUC Unified Access Gateway  Horizon iteams",
+    "OS版本": "Other 3.x Linux (64-bit)"
+  },
+  {
+    "VM名稱": "HIVATEST2.cdc.gov.tw",
+    "VM IP": "192.168.173.36",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_HIV_HIVTEST2__測試機_(173.36)(20190320 clone from 203.65.72.16 ,原IP與主機名稱為171.47上 譽文_愛滋諮詢網2012R2測試機_173.36) ps:因是從6.5降板至5.5,故vmtools既便可安裝但在5.5無法被辨識且會影響開機)_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "GBA",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_特別基金系統_特別基金系統動支_171.242_ws2008R2((20200121鈞誠不知道本機帳密)) (關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "HL7AP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_HL7_HL7AP2012R2正式機_171.78 (1110831關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "EA-XDK01",
+    "VM IP": "192.168.173.172",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機_173.173_ROCKY_linux_20221114_534e",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "VDI8-Connect",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "WebFocus8",
+    "VM IP": "192.168.171.179",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_WebFocus_WebFocus8正式機_171.179(升級用)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HL7TESTEXAP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_交換中心測試機_ws2012R2_173.90",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "hmail1909",
+    "VM IP": "192.168.171.182",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "通報smtp主機_171.182",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "Hmail-198-測試專用",
+    "VM IP": "192.168.173.198",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "通報smtp主機_測試機用_173.198",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "VICP_restored",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "cdcvgbce",
+    "VM IP": "192.168.171.36",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_疫苗基金預控_WS2016_171.36",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DWBOTEST.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_DW_DWBO2008R2測試機_173.81(20230301關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "cdcgba",
+    "VM IP": "192.168.171.133",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_主計室電腦_171.133_WIN 7",
+    "OS版本": "Microsoft Windows 7 (32-bit)"
+  },
+  {
+    "VM名稱": "CDCLABINFO",
+    "VM IP": "192.168.171.137",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_自動通報_實驗室自動通報系統_WS2016_171.137",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "CDCLABTEST.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_cdclab_實驗室傳染病自動通報系統_173.85_ws2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "cdcmeeting",
+    "VM IP": "192.168.171.144",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "小翁_新版會議系統_WS2016_171.144",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "孟珊_門禁系統WIN7_171.97",
+    "VM IP": "192.168.171.97",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_門禁_門禁系統WIN7_171.97",
+    "OS版本": "Microsoft Windows 7 (64-bit)"
+  },
+  {
+    "VM名稱": "CDCVAV5.cdc.gov.tw",
+    "VM IP": "192.168.171.69",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "于珊_多憑證管理系統_多憑證管理系統_171.69_win2012",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "cdcbiolbit.cdc.gov.tw",
+    "VM IP": "192.168.173.73",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈_生安_實驗室生物安全查核暨人才庫管理系統_ws2016_173.73",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-vcsa6.7",
+    "VM IP": "10.192.168.235",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": "VMware Photon OS (64-bit)"
+  },
+  {
+    "VM名稱": "cdcbiolbit",
+    "VM IP": "203.65.72.148",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈_生安2.0_實驗室生物管理系統2.0之子系統 (實驗室生物安全查核暨人才管理系統)_ws2016_72.148",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Checkmarx2019",
+    "VM IP": "192.168.171.152",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "佳學_弱掃主機_Checkmarx2019_WS2016_171.152",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "CIA",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_CIA_CIA變更衝擊分析器_WS2012_171.49(1110823關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "CIAPOC",
+    "VM IP": "192.168.171.28",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "于珊_POC_CIAPOC測試機_WS2012_171.28",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "zonetest",
+    "VM IP": "192.168.173.118",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健 _zonetest _ 173.118_windows 2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ClassA-1",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "ClassA-2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "classb-1",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-vcsa",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": "Other 3.x Linux (64-bit)"
+  },
+  {
+    "VM名稱": "attendvideo",
+    "VM IP": "192.168.171.138",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_差勤卡機_差勤卡機錄影主機_171.138",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "2100RDP21",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_公文_公文接收win7正式機_171.201(關機)",
+    "OS版本": "Microsoft Windows 7 (64-bit)"
+  },
+  {
+    "VM名稱": "7F-視訊廠商專用",
+    "VM IP": "10.20.16.111",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "˙7f-視訊廠商用 10.20.16.111",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "acctest",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_疫苗基金2012R2測試機_173.9",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "啟勝_接觸者健康追蹤管理系統_(173.89)",
+    "VM IP": "192.168.173.89",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_接觸者_接觸者健康追蹤管理系統_173.89",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "apex_central",
+    "VM IP": "192.168.171.92",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "佳學_apexcentral防毒主機_windwos2016_171.92",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "apex_one",
+    "VM IP": "192.168.171.91",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "佳學_apexone防毒主機_windwos2016_171.91",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "APIMGRT2",
+    "VM IP": "192.168.76.153",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_API_資料交換整合平台API管理主機測試區_192.168.76.153",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "庭健_人畜共通傳染病決策支援系統_171.19",
+    "VM IP": "192.168.171.19",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_人畜_人畜共通傳染病決策支援系統_171.19",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "attendcard",
+    "VM IP": "192.168.171.139",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_卡機_差勤卡機_171.139_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ClearPass-Aruba",
+    "VM IP": "192.168.171.10",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_aruba-airwave-clearpass_centos_171.55",
+    "OS版本": "Other 3.x Linux (64-bit)"
+  },
+  {
+    "VM名稱": "啟勝_人畜共通傳染病決策系統AP_(173.27)",
+    "VM IP": "192.168.173.27",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_人畜_人畜共通傳染病決策系統AP_173.27",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "B20",
+    "VM IP": "203.65.72.243",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_TB_慢性組B2專案_B20_171.243_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "BCTest2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_BC肝_測試機_173.123_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "BIOAUAP-TEST",
+    "VM IP": "192.168.173.63",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_感染性生物材料簽審測試機_BIOAUAP_192.168.173.63_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "庭健_接觸者追蹤管理系統_171.24",
+    "VM IP": "192.168.171.24",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_接觸者_接觸者追蹤管理系統_171.24",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "BOSybaseTest",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_BO_BO測試機_173.116_win2008(20230301關機 )",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Cacti",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "_Cacti(switch監控)_",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Aruba AirWave-new",
+    "VM IP": "192.168.171.55",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "171.55-AirWave CenOS 7，APM-8.2.11.1",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "DWETLTEST-2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_ETL_2012R2測試機_173.28(配合法傳開發)",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "what'up-test",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_母片_windows2012R2_",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "WebHRDatebase",
+    "VM IP": "192.168.171.170",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_WebHR_WebHRDatabase_171.170,10.3.176.209_win2008R2",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "WebHRData",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_WebHR_WebHRData正式機_171.176",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "WebFocus8-1",
+    "VM IP": "192.168.171.174",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_WebFocus_WebFocus8正式機_171.174_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-SmartIDA-ap2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida-AP2_76.102",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "DR-SmartIDA-EMR2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida_EMR2_76.104_win2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "DWBOT2",
+    "VM IP": "192.168.173.115",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_BO倉儲測試機_173.115_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "classb-2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "DWETLTEST2",
+    "VM IP": "192.168.173.28",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_ETL_2012R2測試機_173.28(配合法傳開發)",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "win2012 R2 SQL",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Dynatrace",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "于珊_Dynatrace_171.104_ubuntu (小1大2)(20230307關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "EA-DK01",
+    "VM IP": "192.168.172.52",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美潔_防疫分析平台ETL_172.52_rocky linux 9_b89c",
+    "OS版本": "CentOS 8 (64-bit)"
+  },
+  {
+    "VM名稱": "EA-DK02",
+    "VM IP": "192.168.172.53",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美潔_防疫分析平台ETL_172.53_rocky linux 9_b89c",
+    "OS版本": "CentOS 8 (64-bit)"
+  },
+  {
+    "VM名稱": "EA-DK03",
+    "VM IP": "192.168.172.54",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美潔_防疫分析平台ETL_172.54_rocky linux 9_b89c",
+    "OS版本": "CentOS 8 (64-bit)"
+  },
+  {
+    "VM名稱": "EA-DK04",
+    "VM IP": "192.168.172.55",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美潔_防疫分析平台ETL_172.55_rocky linux 9_b89c",
+    "OS版本": "CentOS 8 (64-bit)"
+  },
+  {
+    "VM名稱": "EA-XAIP",
+    "VM IP": "192.168.173.171",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機_173.171_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EA-XAPDB01",
+    "VM IP": "192.168.173.177",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機DB_173.177_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DWETLTEST1",
+    "VM IP": "192.168.173.38",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_ETL_2012R2測試機_173.38",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "WWW2016",
+    "VM IP": "192.168.173.149",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_WWW_全球資訊網2016測試機_173.35",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EA-XDGW01",
+    "VM IP": "192.168.173.170",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_防疫分析資訊平台ETL_測試機GATEWAY_173.170_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Composer",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "Horizon iteams (171.226)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "contract",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈_實驗室合約_實驗室合約系統2012R2正式機_171.126(可關機刪除)",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "contractAP",
+    "VM IP": "192.168.171.125",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如 _領物系統_線上領物及實驗室合約系統_WS2003_171.125",
+    "OS版本": "Microsoft Windows Server 2003 Standard (32-bit)"
+  },
+  {
+    "VM名稱": "ZoneRiskModelSVR",
+    "VM IP": "192.168.171.73",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_ZONE_登革熱風險評估主機_192.168.171.73_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cp-replica-a3c2c5d5-3a70-4055-afaf-de10311ca32f",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "cp-template-db4876f7-e40a-418d-93f6-842d18e64cb4",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "dragonsoft2019-NEW",
+    "VM IP": "192.168.171.63",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "佳學_DMV_弱掃主機_WS2016_171.63",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "www-bk",
+    "VM IP": "192.168.171.53",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_舊全球資訊網供查詢用_171.53",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "Win10-VDI-1031",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "windwos2016-source",
+    "VM IP": "fe80::cc9e:ff66:12bd:321e",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Windows2016母版",
+    "VM IP": "192.168.172.20",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "windows2016-source-new",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "windows2012R2-source",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_母片_windows2012R2_",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Windows XP Professional",
+    "VM IP": "192.168.171.221",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "Winxp+IE6_署內舊sanswitch連接用 _171.250 (win7共用ip)",
+    "OS版本": "Microsoft Windows XP Professional (32-bit)"
+  },
+  {
+    "VM名稱": "Windows 7",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "Win7+IE8_測試機_171.250 (舊san switch 連線使用,winxp共用ip)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Win2019_ANCHOR_V2.5.3.1",
+    "VM IP": "192.168.171.151",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "鋆立_ANCHOR2_win2019_171.150",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "classb-3",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "ZONEDB_REPORT",
+    "VM IP": "192.168.171.118",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_人畜_人畜共通傳染病決策支援系統_171.118",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "mail_182_21h1",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "通報smtp主機_171.182",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "QINVAP_OLD",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_APVM9_傳染病問卷_72.116(11/2關機 11/9刪除)",
+    "OS版本": "Microsoft Windows Server 2008 (32-bit)"
+  },
+  {
+    "VM名稱": "OANETAPTEST.cdc.gov.tw",
+    "VM IP": "192.168.173.56",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_人事差勤_人事差勤系統2016測試機_173.56",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "officeap",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_領物_領物系統2008_正式機_171.128",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "OfficeItem",
+    "VM IP": "192.168.171.122",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_領物_領物系統2012R2正式機_171.122",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "OracleCloudControl",
+    "VM IP": "192.168.171.161",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_Oracle_OracleCloudControl_171.161",
+    "OS版本": "Oracle Linux 7 (64-bit)"
+  },
+  {
+    "VM名稱": "OTCNEW",
+    "VM IP": "192.168.171.107",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_OTC超商系統_OTCNEW_192.168.171.107",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "PHEIC",
+    "VM IP": "192.168.171.20",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "鋆立_PHEIC_171.20",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "POCAD2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_母體_2016_",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "mail_212_21h1",
+    "VM IP": "192.168.171.212",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "通報smtp主機_171.212",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "MEETING",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟桓_會議系統_會議系統正式機_171.153 (20210914關機)",
+    "OS版本": "Microsoft Windows 7 (64-bit)"
+  },
+  {
+    "VM名稱": "mail_186_21h1",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "通報smtp主機_171.186",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "OANETAP2014",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_差勤_新差勤系統_171.96(關機)",
+    "OS版本": "Microsoft Windows 7 (64-bit)"
+  },
+  {
+    "VM名稱": "LIMSR2TEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_LIMS_LIMS-2008R2-測試機_171.198 (11/2關 11/9 刪除)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "HL7CAAP2012",
+    "VM IP": "192.168.171.75",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_HL7_HL7CAAP2012R2_171.75",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "LIMSAP2",
+    "VM IP": "192.168.171.157",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_實驗室系統_實驗室系統2008R2_171.157",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "QSAP",
+    "VM IP": "192.168.171.172",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_HL7_防疫資訊交換平台WEBAPI排程主機_171.172",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "RDC",
+    "VM IP": "192.168.171.175",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "柔函_人臉辨識_人臉辨識智慧門禁系統_171.175",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "RD-DESKTOP",
+    "VM IP": "192.168.171.242",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_跳板機_RD-web_windwos2016_171.242",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "RDWEB",
+    "VM IP": "192.168.171.129",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_TS_TermainalServer2016 正式機_171.129_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIDSS_Redis",
+    "VM IP": "192.168.171.95",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_nidss api&amp;redis 快取_171.95_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "RemoteDesktop2",
+    "VM IP": "192.168.171.132",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_TS_TermainalServer2016 正式機_171.132_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "QINVAP",
+    "VM IP": "2002:cb41:4865::cb41:4865",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_傳染病問卷_72.101  win2012",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "nsm_91780_mlos_3509545_x86_64",
+    "VM IP": "10.8.5.67",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_IPS_nsm_91780_linux",
+    "OS版本": "Other 4.x or later Linux (64-bit)"
+  },
+  {
+    "VM名稱": "NIDSS-OD",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_nidss opendate _171.203",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "NIDRSAP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_新法傳AP_171.76_wndows2016(可刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "tracedbsecond",
+    "VM IP": "192.168.172.16",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_人畜_人畜共通傳染病決策支援系統DB2_172.16",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "traceaudit.cdc.gov.tw",
+    "VM IP": "192.168.171.83",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_人畜_人畜共通傳染病系統(認證)_171.83_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "Newwwwaptest",
+    "VM IP": "192.168.173.29",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_WWW_全球資訊網2016AP測試機_173.29",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "TraceAP 報表用",
+    "VM IP": "192.168.171.37",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_traceAP報表_171.37_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIIS-Central-DB",
+    "VM IP": "192.168.171.13",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_NIIS_NIIS中央SQLDB_171.13_2008R2",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "NIISVPN1",
+    "VM IP": "192.168.171.39",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "NIISVPN1跳板機",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIISVPN2",
+    "VM IP": "192.168.171.45",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "NIISVPN2跳板機",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "OANETAP2019.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NPPMS",
+    "VM IP": "192.168.171.219",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_國有公用財產管理資訊系統_正式機_171.219_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "LIMS20TEST.cdc.gov.tw",
+    "VM IP": "192.168.173.64",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_資訊管理系統_LIMS20TEST_ws2016_173.64",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NBA",
+    "VM IP": "192.168.171.56",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_非營業基金系統_正式機_171.56_ws2003r2",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "MOTP_3.6",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_一次性密碼_一次性密碼AP_171.208_linux",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "ntpweb",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_財產系統_財產系統_171.98(有問題)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "ntpweb_restored",
+    "VM IP": "192.168.171.98",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "京玉_財產系統_財產系統_171.98",
+    "OS版本": "Microsoft Windows Server 2003 Standard (32-bit)"
+  },
+  {
+    "VM名稱": "ntpweb-copy",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "怡慧_財產系統_財產系統_171.98",
+    "OS版本": "Microsoft Windows Server 2003 Standard (32-bit)"
+  },
+  {
+    "VM名稱": "MISTESTAP",
+    "VM IP": "192.168.173.79",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈_防疫物資管理資訊測試機_MISTESTAP_173.79_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "oadoor",
+    "VM IP": "192.168.171.141",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_差勤_差勤2016_171.141",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "OANETAP",
+    "VM IP": "203.65.72.221",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "姿伶_OANET_舊OANET正式機_72.221",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "MEETINGTEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟桓_會議系統_會議系統測試機_173.153 (20210914關機)",
+    "OS版本": "Microsoft Windows 7 (64-bit)"
+  },
+  {
+    "VM名稱": "NIISVPN3",
+    "VM IP": "192.168.171.50",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "NIISVPN3跳板機",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Socialreport",
+    "VM IP": "192.168.172.50",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "怡慧_社交工程_report測試用_172.50",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "RemoteDesktop3",
+    "VM IP": "192.168.171.21",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_Oracle跳板機_ws2016_171.21",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "1-Hank-win2016source",
+    "VM IP": "203.65.72.15",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "Hank 測試機",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "RemoteDesktop",
+    "VM IP": "192.168.171.131",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_TS_TermainalServer2016 正式機_171.131_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-EMRtst",
+    "VM IP": "203.65.72.176",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida-EMRtst_72.176",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "KMS2016",
+    "VM IP": "192.168.171.2",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_KMS_KMS2016_171.2 (windows 序號授權)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Smartit2016",
+    "VM IP": "192.168.171.4",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "佳學_smartit 2016 _smartit2016_171.4",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "IVISTESTAP.cdc.gov.tw",
+    "VM IP": "192.168.173.103",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "鋆立_流感疫苗WS2016_173.103",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "TBCenter",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "芳如_TB_TBCenter2008R2正式機_72.170(關機保留)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-CLItst",
+    "VM IP": "192.168.173.65",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "振芳_API_健保VPN_測試機_ws2016_173.65",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "snapnews",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "先昀_eic_web主機_171.80",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SmartIDA-EMR1",
+    "VM IP": "192.168.76.103",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida-EMR1_76.103",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SQL2014.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_xxx_171.25 (原澄龍171.89上 虛擬機) (關機)",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SybaseIQserver",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_BO_BO-SybaseIQserver_171.168(0930關機)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "SQMSBK-AP2",
+    "VM IP": "192.168.76.27",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "于珊_SQMSBK-AP2_76.27_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "swapn",
+    "VM IP": "192.168.171.223",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "于珊_檢疫單一窗口_windows2012R2_171.223",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "Stream",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟桓_影音線上串流_影音線上串流_171.9 (20210914關機)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "ITSM",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "啟勝_IT資產資源管理系統_IT資產資源管理系統_171.18(20230221關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "ISSTEST.cdc.gov.tw",
+    "VM IP": "192.168.173.78",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_人口密集機構傳染病監視作業系統_ISSTEST_173.78_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "STEA",
+    "VM IP": "192.168.171.121",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "美惠_API模組_171.121_ centos7.6",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "SMISTESTAP1",
+    "VM IP": "192.168.173.143",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈 _防疫物資SMIS測試機_WS2016_173.143",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "TNISTESTAP2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "貝盈_院感_院感2008R2測試機_173.49)(可關機刪除)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "RemoteOne1.cdc.gov.tw",
+    "VM IP": "192.168.171.64",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "佳學_RemoteOne_171.64_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "replica-cd8c1fea-8e46-4b03-ba94-888ccaa1ca43",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "VAAP3",
+    "VM IP": "192.168.171.26",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "于珊_VA_憑證主機2016_171.26",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "LIMS20IFT-N",
+    "VM IP": "203.65.72.63",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_實驗室管理系統_API主機_72.63_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "replica-f605f38b-0642-4450-b2b9-a706a0ce1425",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "VDI母版(不要刪除)",
+    "OS版本": "Microsoft Windows 10 (64-bit)"
+  },
+  {
+    "VM名稱": "reportingService2016",
+    "VM IP": "192.168.171.99",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "聲和_RP_repotingService2016_171.99",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "LIMS20APITEST",
+    "VM IP": "192.168.173.67",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_LIMSEMRtest_windows2016_173.67",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-EMR2",
+    "VM IP": "192.168.76.104",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida_EMR2_76.104_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "REVNUEAP2",
+    "VM IP": "192.168.171.218",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "庭健_出納表單_出納表單2012R2_171.218",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-AP-介接BBS",
+    "VM IP": "192.168.172.2",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida_AP1-BBS_172.2",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SCHEDULE",
+    "VM IP": "192.168.171.105",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宥安_系統排程_系統排程正式機_171.105",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SEDATA",
+    "VM IP": "192.168.171.106",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "怡慧_社交工程_社交工程資料收集_171.106",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-AP2",
+    "VM IP": "192.168.76.102",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida-AP2_76.102",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "library",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "志雄_圖書_圖書系統正式機_171.229_win2008R2(20230310關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SmartIDA-AP1-N",
+    "VM IP": "192.168.76.101",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "宗旆_smartida_AP1_76.101",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Showth",
+    "VM IP": "192.168.171.228",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.235",
+    "VM附註": "昱涵_檔案庫_檔案庫房溫濕度顯示器_171.228_Win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "BTS_UDP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.44",
+    "VM附註": "美惠_BTS_72.27",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "cdccls-3par2_Vsp-4.4.0.GA-53",
+    "VM IP": "192.168.69.132",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.44",
+    "VM附註": "3par 8200 ESXI (3D) 69.132",
+    "OS版本": "Red Hat Enterprise Linux 6 (32-bit)"
+  },
+  {
+    "VM名稱": "3FM3PAR_VSP-4.4.0.GA-88",
+    "VM IP": "192.168.69.138",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.44",
+    "VM附註": "3par 8200  ESXI (6B) 69.138",
+    "OS版本": "Red Hat Enterprise Linux 6 (32-bit)"
+  },
+  {
+    "VM名稱": "cpccls-3par1_Vsp-4.4.0.GA-53",
+    "VM IP": "192.168.69.131",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.44",
+    "VM附註": "3par 8200 ESXI (3D) 69.131",
+    "OS版本": "Red Hat Enterprise Linux 6 (32-bit)"
+  },
+  {
+    "VM名稱": "acctest",
+    "VM IP": "192.168.173.9",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "芳如_疫苗基金2012R2測試機_173.9",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "WFSTESTAP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "友仁_WFS測試機_173.48",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "CDCICPTEST(關機待刪)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "芳如_防疫資訊匯集平台2008R2測試機_173.156(20191112關機,11/18刪)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "COS1(關機中)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "QINVTestAP",
+    "VM IP": "192.168.173.59",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "庭健_QINV測試機_WS2012r2_173.59",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "WWW2012",
+    "VM IP": "192.168.173.105",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "振芳_全球資訊網2008R2測試機_173.105",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "hmreport(關機中)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "ISSTESTAP1(關機待刪)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "庭健_人口密集2008R2測試機_173.x",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "HIVATEST2(關機中)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "譽文_愛滋諮詢網2012R2測試機_173.36(新機取代關機中)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "HL7TESTEXAP",
+    "VM IP": "192.168.173.90",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.47",
+    "VM附註": "啟勝_交換中心測試機_ws2012R2_173.90",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "MAILMBX3",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.87",
+    "VM附註": "美惠_Mailbox3_170.102",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "ckan(關機中)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.87",
+    "VM附註": "證翰_ckan_關機中_192.168.69.11",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "CDCWhatsup",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.87",
+    "VM附註": "鈞誠_What's up_170.221",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "IMSVA",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.87",
+    "VM附註": "證翰_IMSVA_170.105",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Whatsup_NEW(關機中)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.87",
+    "VM附註": "舊whatsup 關機中_170.30",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "rserverdb",
+    "VM IP": "192.168.171.108",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.90",
+    "VM附註": "",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "RMonitor",
+    "VM IP": "192.168.171.204",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.90",
+    "VM附註": "",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "cdcsasoa.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.90",
+    "VM附註": "",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "RServer",
+    "VM IP": "192.168.171.247",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.90",
+    "VM附註": "智凱_EIC_R-Server_171.247",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "R-VCSA60",
+    "VM IP": "192.168.171.90",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.171.90",
+    "VM附註": "EIC Rserver vcenter _171.90",
+    "OS版本": "SUSE Linux Enterprise 11 (64-bit)"
+  },
+  {
+    "VM名稱": "sas",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.171.90",
+    "VM附註": "賢靖_EIC SAS_171.247 ",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "cdcinfo2016",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "先昀_細胞廣播2016_72.166_win2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "芳如_TB2012測試機_(173.121)",
+    "VM IP": "192.168.173.121",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_TB_TB測試機_173.121_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-Develop",
+    "VM IP": "192.168.173.31",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_smartIDA_develop_173.31_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "ICP",
+    "VM IP": "203.65.72.20",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_ICP升級測試機_ICP_203.65.72.20_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "IDA4PROC",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_傳染病通報AP主機_IDA4PROC_72.206_win2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SmartIDA-TEST",
+    "VM IP": "192.168.173.32",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_smartIDA_TEST測試機_173.32_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "庭健_ZONEDB_(173.18)",
+    "VM IP": "192.168.173.18",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_ZONEDB_ZONEDB_173.18_Ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "姿伶_OANET_(173.61)",
+    "VM IP": "192.168.173.61",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "姿伶_OANET_OANET_173.61_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "姿伶_人事行政服務系統2008R2測試機_(173.96)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "姿伶_人事行政服務_人事行政服務系統測試機_173.96_win2008R2(20210119關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "cdceic",
+    "VM IP": "203.65.72.45",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "????_EIC_EIC教育訓練用WEB_72.45_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "IDA4AP2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_傳染病通報排程主機_IDA4AP2_72.207_win2016(1101103關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "IDA4EMR",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_傳染病通報EMR AP主機_IDA4EMR_72.49_win2016(1101103關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdcnfccard1",
+    "VM IP": "192.168.76.11",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_勾稽查詢系統_勾稽查詢系統_76.11_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cdc-contract-ap1-test",
+    "VM IP": "192.168.173.111",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈(二代實驗室開口合約)測試機_173.111_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "cdcotc",
+    "VM IP": "203.65.72.122",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_唾篩_唾篩超商_72.122_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "IDA_Monitor",
+    "VM IP": "203.65.72.28",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_IDA_Monitor_72.28_win2016(可關機刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "CDCTBDOTAPP",
+    "VM IP": "2002:cb41:48a7::cb41:48a7",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_雲端都治系統_雲端都治系統後端正式機_72.167_win2012R2(待下線)",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "于珊_多憑證管理系統測試機_173.69",
+    "VM IP": "192.168.173.69",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_多憑證管理系統測試機_173.69_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "CentOS7.6 library",
+    "VM IP": "203.65.72.204",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "志雄_圖書系統_72.204_centos7",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "CDCzoneAP",
+    "VM IP": "203.65.72.57",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_接觸者_接觸者管理系統教育訓練機CDCzoneAP_72.57_Ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "LCARE",
+    "VM IP": "2002:cb41:4875::cb41:4875",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_長照_(舊主機)長照機構感管查核資訊系統2012R2_72.117",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "LBIT",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_LBIT_實驗室生物安全_72.21(可關機刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "鋆立_IVIS2008R2測試機_(173.140)",
+    "VM IP": "192.168.173.140",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_IVIS_IVIS測試機_173.140_win2008R2",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDABeta",
+    "VM IP": "192.168.173.30",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_智慧傳染病通報系統beta_173.30_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "cdctbdotapp2test",
+    "VM IP": "192.168.173.46",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_雲端APP2.0測試機_173.49_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "貝盈_防疫物資2008R2測試機_(173.135)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_防疫物資_防疫物資測試機_173.135_win2008R2",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "友仁_倉儲內網入口測試機_173.37",
+    "VM IP": "192.168.173.37",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_DW_倉儲內網入口測試機_173.37_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "cdcnfccard2",
+    "VM IP": "192.168.76.12",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_勾稽查詢系統_勾稽查詢系統_76.12_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "友仁_變更衝擊分析器_(171.29)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_變更衝擊分析器_變更衝擊分析器_171.29(關機保留)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "宇冠_便利超商中台介接2012R2測試機_(173.142)",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_超商_便利超商中台介接測試機_173.142_win2012R2",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "志雄_OpenData得獎作品2012R2_(173.20)",
+    "VM IP": "192.168.173.20",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "志雄_OpenData_OpenData得獎作品_173.20_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "貝盈_Biobank2008R2測試機_(173.15)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_Biobank_Biobank測試機_173.15_win2008R2",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "IDA4SERVICE",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_傳染病通報IDA AP &amp; WS主機_IDA4SERVICE_72.247_win2016(1101103關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "貝盈_Intertestvm_生安系統2.0_(173.33)",
+    "VM IP": "192.168.173.33",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_生安2.0_生安系統2.0_173.33_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "庭健_人畜共通傳染病跨域整合系統測試機_(173.24)",
+    "VM IP": "192.168.173.24",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_人畜_人畜共通傳染病跨域整合系統測試機_173.24_Ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "VAERS-TEST-AP",
+    "VM IP": "192.168.173.74",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_疫苗通報系統_173.74_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "孟賢_傳染病統計資料查詢系統_(173.102)",
+    "VM IP": "192.168.173.102",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_NIDSS_傳染病統計資料查詢系統_173.102_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "友仁_倉儲WFS2008R2測試機_(173.21)",
+    "VM IP": "192.168.173.21",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_DW_倉儲WFS測試機_173.21_win2008R2",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "IVISAP-B",
+    "VM IP": "203.65.72.128",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_流感疫苗管理資訊_IVISAP-B_203.65.72.128_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "APIPORTAL",
+    "VM IP": "203.65.72.157",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_API_API自助服務主機_72.157_centos7",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "APIMGRT",
+    "VM IP": "192.168.76.152",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_API_API管理測試機_76.152_centos7",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "APIMGR2",
+    "VM IP": "192.168.76.151",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_API_資料交換整合管理平台API主機_76.151_centos7",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "APIMGR",
+    "VM IP": "192.168.76.150",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_API_API管理主機_76.150_centos7",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "api-console-win2016",
+    "VM IP": "192.168.173.14",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_APIM跳板機_173.14_win2016 (to 2016 20230223)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "APIANAL",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_API_API報表主機_171.71_centos7",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SQMS108",
+    "VM IP": "192.168.76.23",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_SQMS 20190401上線_192.168.76.23_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SYBASEIQTEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_倉儲SYBASEIQ_測試機_192.168.173.17_ws2012r2(20221230關機待刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "啟勝_防疫資訊交換平台WebAPI_173.42",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_防疫_防疫資訊交換平台WebAPI_WS2016_173.42",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SmartIDA-Trans2",
+    "VM IP": "192.168.76.106",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_smartida-trans2_Windows2016_76.106",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "鈞誠_公文win7測試機_(173.88)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_公文_公文win7測試機_173.88",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "IDASERVICE2008",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_IDA_法傳轉檔2008R2正式機_72.246(1101103關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "SWMTNET-2016",
+    "VM IP": "203.65.72.133",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_檢疫單一窗口_檢疫單一窗口2008R2_72.133(介接交通部MTNET)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ACCAP",
+    "VM IP": "2002:cb41:4827::cb41:4827",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_基金系統_基金系統正式機_72.39_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "IntellectNode",
+    "VM IP": "2002:cb41:4843::cb41:4843",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_學術成果_學術成果公開發表管理系統正式機_72.67_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "鈞誠_經費核銷測試機_(171.169)",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_經費核銷_經費核銷測試機_171.169 已轉移到正式區(不開機 )",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "IVISAP-A",
+    "VM IP": "203.65.72.137",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_流感疫苗管理資訊_IVISAP-A_203.65.72.137_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SS0AP3",
+    "VM IP": "203.65.72.42",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_TAIWAN_cdctaiwan TLS 1.0 TEST _72.42_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "STSRV1",
+    "VM IP": "192.168.88.12",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_API_傳輸檔案管理主機_88.12",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "IVISAP2",
+    "VM IP": "2002:cb41:489a::cb41:489a",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_流感疫苗系統_流感疫苗系統2008R2_72.154",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "ISS2016",
+    "VM IP": "203.65.72.198",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_人口密集機構傳染病監視作業系統_ISS2016_72.198_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "IVISAPBK2",
+    "VM IP": "203.65.72.153",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_流感疫苗系統_流感2008R2分流機_72.153",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "smartIDA-Transtest",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_smartida-trans3_Windows2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "lcare-test",
+    "VM IP": "192.168.173.144",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_長照__長照資訊管理系統_173.144_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-Trans3",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_smartida-trans3_Windows2016_",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "庭健_長照機構感管查核資訊系統測試機_(173.50)",
+    "VM IP": "1.1.1.1",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_長照_長照機構感管查核資訊系統測試機_173.50_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "tbtablet.cdc.gov.tw",
+    "VM IP": "192.168.173.54",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_TB_結核病測試機173.54_173.54_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "BMCAPTEST",
+    "VM IP": "192.168.173.152",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_材料簽審測試機__173.152_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "TBGISServer",
+    "VM IP": "203.65.72.91",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_GIS_結核病時空地理與預警整合模組開發案_72.91_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Biosafety_Main",
+    "VM IP": "203.65.72.174",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_生安2.0_實驗室生物安全管理系統2.0_72.174_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "BIONUMERIC",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_BioNumeric_跨機關共用BioNumeric系統正式機_72.182_win2008R2(暫時關機)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "biobank2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_生安2.0_實驗室生物安全管理系統2.0(中毒機器關機中)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "TB2test",
+    "VM IP": "192.168.173.45",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_結核病追蹤管理系統_測試機_173.45_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "bioauaptest2",
+    "VM IP": "192.168.173.151",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_材料簽審測試機__173.151_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "IVISAP-C",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_流感疫苗管理資訊_IVISAP-A_203.65.72.131_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "BIOAUAP-TEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_感染性生物材料簽審測試機_BIOAUAP_203.65.72._win2016(關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "BIOAUAP",
+    "VM IP": "203.65.72.76",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_感染性生物材料簽審測試機_BIOAUAP_203.65.72.53_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "benga",
+    "VM IP": "203.65.72.120",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "中區實驗室_benga_食霉性細菌分子工具_72.120_ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "IDA5",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_IDA_IDA5_72.48、45  (11/2關 11/9 刪除)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "BCProduction",
+    "VM IP": "203.65.72.106",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_BC肝_2016正式機_72.106_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "BC_TEST",
+    "VM IP": "192.168.173.100",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_BC肝測試機_173.100_ws2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "IDAE",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_電子通報_電子通報正式機_72.139 (11/2關 11/9 刪除)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "IDAEMRTEST",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_傳染病通報EMR AP 測試主機_IDAEMRTEST_72.48(可關機刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "smtp",
+    "VM IP": "192.168.171.74",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宥安_ smtp 正式機 171.74",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SmartIDA-Trans1",
+    "VM IP": "192.168.76.105",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_smartida-trans1_Windows2016_76.105",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "BIOAUTESTAP",
+    "VM IP": "192.168.173.250",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_感染性生物材料簽審測試機_BIOAUTESTAP_173.250_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "TPMGD",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "郭庭佑_基因資料庫_TPMGD_72.200",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "MCTS",
+    "VM IP": "203.65.72.126",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_接觸者_接觸者追蹤管理系統2012R2正式機_72.126",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "OANETAP2019-H",
+    "VM IP": "192.168.173.19",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "姿伶_人事表單正式機_173.19_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DWBOTEST2.cdc.gov.tw",
+    "VM IP": "2002:cb41:48b4::cb41:48b4",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_BO_BO2012R2測試機_72.180_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "VICP-TEST",
+    "VM IP": "192.168.173.104",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_VICA測試機_173.104_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "OANETAP-TEST2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "姿伶_173.120(可刪除關機)",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "VICP2012R2TEST.cdc.gov.tw",
+    "VM IP": "192.168.173.94",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_VICP測試機_173.94_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DR-TNISAP2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_TNIS正式機_TNISAP2_72.41_台灣院內感染監視資訊系統_win2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "HASAP2",
+    "VM IP": "203.65.72.152",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_hasap_hasap2_72.152 (原名cdchas)_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ISSAP2016",
+    "VM IP": "203.65.72.250",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_人口密集機構傳染病監視作業系統_ISSAP2016_203.65.72.250_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-SCREEN",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_愛滋篩檢_新版愛滋篩檢及線上問卷2016_72.108_win2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "DW-TESTAP",
+    "VM IP": "203.65.72.201",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_WebFocus_WebFocus測試機_72.201_win2003",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "WebFocusAP",
+    "VM IP": "203.65.72.211",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_WebFocus_WebFocus_72.211",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "MAILCAS3.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_mail_mailcase3_170.104(關機)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "DRIP",
+    "VM IP": "192.168.69.102",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_DR.IP_DR.IP_69.102_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "MAILCAS1.cdc.gov.tw",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_mail_mailcas1_169.254.249.60(關機)",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "OUTDNS1",
+    "VM IP": "203.65.72.1",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "聲和_DNS_外部DNS2016正式機_72.1",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DR-HASAP2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_hasap_hasap2_72.152 (原名cdchas)_win2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "VICP",
+    "VM IP": "192.168.171.171",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_VICP2012R2正式機_192.168.171.171_ws2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "Win PE 環境模擬",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "藍新_Win PE 環境模擬",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "SCREEN2008R2AP",
+    "VM IP": "203.65.72.108",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_愛滋篩檢_新版愛滋篩檢及線上問卷2016_72.108_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "OMFLOW(聲和)",
+    "VM IP": "192.168.173.132",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "聲和_omflow_173.132_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NEWAD2-2016",
+    "VM IP": "192.168.69.1",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宥安_AD02_Windows2016_69.1",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "EMGAP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_急診空床_急診空床正式機_72.46_win2012R2(1110831關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "EIC檢驗系統",
+    "VM IP": "203.65.72.31",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "舜琦 _EIC檢驗系統_72.31_ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "TRACEPRP",
+    "VM IP": "203.65.72.178",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_接觸者_接觸者健康追蹤管理系統Tracepep_72.178",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "EMR-Clinic2",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_傳染病通報診所 API 主機_EMR-Clinic2_72.38_win2016(可關機刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "TWTNISTESTAP1.cdc.gov.tw",
+    "VM IP": "192.168.173.25",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_TNIS院感測試機 173.25_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "NEW-HIVA",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_HIV_HIVA_72.62_ws2016(升級用)原IP 72.16(待刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "NIIS-CDC-AP",
+    "VM IP": "203.65.72.75",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "姿伶_NIIS_NIIS-CDC-AP_72.75_ws2003",
+    "OS版本": "Microsoft Windows Server 2003 Standard (32-bit)"
+  },
+  {
+    "VM名稱": "VODCTS7.6-NEW",
+    "VM IP": "203.65.72.79",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "志雄_VOD2021新建___20220829",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "VODCTS7.6",
+    "VM IP": "203.65.72.64",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "志雄_VOD2021新建_203.65.72.64",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "gbceaptest",
+    "VM IP": "192.168.173.77",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_gcbeaptest測試機_173.77_win2012R2",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "VODCTS7",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "志雄_VOD2019新建_203.65.72.124",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "DWNWEB",
+    "VM IP": "203.65.72.68",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_DW_倉儲Portal_72.68_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "URMAP",
+    "VM IP": "203.65.72.113",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_使用者簽入管理webap_URMAP_203.65.72.113",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "TQuark_NFCTest2.cdc.gov.tw",
+    "VM IP": "192.168.173.157",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_智慧檢疫系統_測試機_173.157_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "MOFG2GQuery_test",
+    "VM IP": "192.168.173.108",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_(介接關務署)_測試機_173.108_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "URMTESTAP.cdc.gov.tw",
+    "VM IP": "192.168.173.10",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_使用者帳號管理系統_173.10_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "MISWEB",
+    "VM IP": "2002:cb41:4846::cb41:4846",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_防疫物資系統_防疫物資WEB2012R2正式機_72.70",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "GBA2008R2",
+    "VM IP": "203.65.72.114",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_會計系統_GBA會計系統_72.114_win2008R2",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "MISAP",
+    "VM IP": "203.65.72.69",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_防疫物資管理資訊測試機_MISAP_203.65.72.69_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DW-TESTAP1",
+    "VM IP": "192.168.173.211",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_DW_WebFocus_173.211_win2003r2",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "LIMSEMR",
+    "VM IP": "203.65.72.121",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_IDA之EMR傳染病自動通報送驗__72.121_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ETLWF8TEST01",
+    "VM IP": "192.168.171.31",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_WebFocus_WebFocus8POC(測試機)_171.31_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "cms4",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_勾稽查詢系統_勾稽查詢系統2012R2_win2012",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "CRIB-a2",
+    "VM IP": "192.168.173.136",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_校園流感CIVS_crib-b_192.168.173.136_ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "crib-a",
+    "VM IP": "192.168.173.200",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_校園流感CIVS_crib-a_192.168.173.200_ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "TNISAP2",
+    "VM IP": "203.65.72.41",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_TNIS正式機_TNISAP2_203.65.72.41_台灣院內感染監視資訊系統",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Hostmonitor2019",
+    "VM IP": "203.65.72.29",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "聲和_新Hostmonitor_Hostmonitor2019_72.29_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "ZONEGIS",
+    "VM IP": "203.65.72.177",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_接觸者_接觸者健康追蹤管理系統(決策地圖)_72.177",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "TNISAP1",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "貝盈_院感_院感2008R2正式機_TNISAP1_72.111(可關機刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "COS1-new",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_急診傳染病通報_測試機_173.68_ws2012r2",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "LIMS20AP",
+    "VM IP": "203.65.72.61",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_實驗室資訊管理系統_認證網站_72.61_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "VICA-TEST-AP",
+    "VM IP": "192.168.173.75",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "鋆立_VICA測試機_173.94_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "Combi",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_登革熱_登革熱309里競賽正式機_72.189_win2012R2(1101103關機)(可刪除)",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "VCSA 6.5",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "VMware vCenter Server Appliance  host(69.124)",
+    "OS版本": "Other 3.x Linux (64-bit)"
+  },
+  {
+    "VM名稱": "CMS3",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_勾稽查詢系統_勾稽查詢系統2012R2_win2012",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "CMS",
+    "VM IP": "2002:cb41:4838::cb41:4838",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_單一簽入_單一簽入2012R2(介接健保署)_72.56_win2012",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "LIMS20",
+    "VM IP": "203.65.72.60",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_實驗室管理系統_WEBAP_72.60_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "school",
+    "VM IP": "203.65.72.110",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_學校_新版學校2016正式機_72.110",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "NIDSSAP2016",
+    "VM IP": "203.65.72.102",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_傳染病統計_傳染病統計查詢2016正式機_72.102_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "SCREEN",
+    "VM IP": "203.65.72.95",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_screen_新版愛滋篩檢及線上問卷2016_72.95_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "QINV-測試機(資拓)",
+    "VM IP": "192.168.173.159",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "庭健_QNIV測試機(資拓)_173.159_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SCREENTESTAP",
+    "VM IP": "192.168.173.91",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "振芳_HIV_SCREENTESTAP_測試機(173.91)(20190320 clone form 203.65.72.108, 原IP與主機名稱為171.38上 宇冠_愛滋諮詢篩檢及線上問卷2008R2_測試機_(173.91)) ps:因是從6.5降板至5.5,故vmtools既便可安裝但在5.5無法被辨識且會影響開機_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "SecureSphere",
+    "VM IP": "192.168.69.240",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "聲和 _imperva vm150 _69.240_linux",
+    "OS版本": "Other 2.6.x Linux (64-bit)"
+  },
+  {
+    "VM名稱": "TGBISSRVERTEST1",
+    "VM IP": "192.168.173.148",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "芳如_TBGIS測試機__173.148_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "HL7WEB",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_交換平台_防疫資訊交換平台監控網站_72.24_win2012R2(20221229關機停用)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "LABORTEST2008R2.cdc.gov.tw",
+    "VM IP": "192.168.173.107",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_外勞_外勞測試機_173.107_win2008R2",
+    "OS版本": "Microsoft Windows Server 2008 R2 (64-bit)"
+  },
+  {
+    "VM名稱": "STEDGE1",
+    "VM IP": "192.168.76.154",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_API_檔案傳輸中介主機_76.154",
+    "OS版本": "CentOS 7 (64-bit)"
+  },
+  {
+    "VM名稱": "HL7QS",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_交換平台_交換平台QueueService正式機_72.17_win2012R2 (1110729關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "LIMS20-業務單位使用",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_實驗室管理系統(業務單位使用)_WEBAP_172.13_ws2016 (20230216關機 一個月後刪除)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Windows2012R2-source",
+    "VM IP": "192.168.171.62",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_母片_windows2012R2母片_69.100",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DOC2016TESTAP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_二代公文_APTEST_173.39_win2016",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "Windows2016-source",
+    "VM IP": "fe80::d55f:167a:c204:8224",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_母片_Windows2016母片_69.101",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HL7QSAP1",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_交換平台_防疫資訊交換中心_72.66_win2012R2(20230206關機)",
+    "OS版本": ""
+  },
+  {
+    "VM名稱": "HL7RCVAP1",
+    "VM IP": "203.65.72.73",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_交換中心_交換中心接收1_72.73_win2003",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "crib-b",
+    "VM IP": "192.168.173.201",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_校園流感CIVS_crib-b_192.168.173.201_ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "windwos2016母體ESXI5.5",
+    "VM IP": "192.168.69.149",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "美惠_母體_2016_",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "crib-b2",
+    "VM IP": "192.168.173.137",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "于珊_校園流感CIVS_crib-b_192.168.173.137_ubuntu",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "VCSA 6.7",
+    "VM IP": "10.192.168.125",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "VMware vCenter Server Appliance",
+    "OS版本": "VMware Photon OS (64-bit)"
+  },
+  {
+    "VM名稱": "LIMS20IFT",
+    "VM IP": "",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_實驗室管理系統_API主機_72.63_ws2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "DNSsinkhole",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "聲和_DNS_DNSsinkhole 69.106",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "DLOADAP",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "京玉_公文系統第二代大附件下載_DLOADAP_72.10 20210604(關機待刪除)",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "lims20aptest",
+    "VM IP": "192.168.173.101",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "宗旆_實驗室管理_lims_173.101_win2016",
+    "OS版本": "Microsoft Windows Server 2012 (64-bit)"
+  },
+  {
+    "VM名稱": "ZONE_machine learning",
+    "VM IP": "203.65.72.25",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_積水容器_積水容器辨識學習機_72.25",
+    "OS版本": "Ubuntu Linux (64-bit)"
+  },
+  {
+    "VM名稱": "DeepSecurity",
+    "VM IP": "192.168.171.236",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "佳學_防毒_DeepSecurity_171.236_win2016",
+    "OS版本": "Microsoft Windows Server 2016 or later (64-bit)"
+  },
+  {
+    "VM名稱": "HostMonitor",
+    "VM IP": "",
+    "開關機狀態": "poweredOff",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "聲和_監測_HostMonitor_72.11 (關機保留)",
+    "OS版本": "Microsoft Windows Server 2008 (32-bit)"
+  },
+  {
+    "VM名稱": "HRAP",
+    "VM IP": "203.65.72.242",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "姿伶_HR_人事HR_72.242 (關機保留一年使用一次)_win2003",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  },
+  {
+    "VM名稱": "HL7RCVAP2",
+    "VM IP": "203.65.72.74",
+    "開關機狀態": "poweredOn",
+    "VM所在平台": "192.168.69.125",
+    "VM附註": "啟勝_交換中心_交換中心接收2_72.74_win2003",
+    "OS版本": "Microsoft Windows Server 2003 (32-bit)"
+  }
+]
