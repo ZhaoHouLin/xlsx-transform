@@ -20,6 +20,7 @@ const counter = useCounterStore()
 const numberAnimationInstRef = ref(null)
 
 const searchVal = ref("")
+const searchResultLength = ref(0)
 
 const data = computed(() => {
   if (searchVal) {
@@ -49,6 +50,7 @@ const columns = [
     maxWidth: 400,
     defaultSortOrder: "ascend",
     sorter: "default",
+    className: "defaultStyle",
   },
   {
     title: "VM IP",
@@ -57,6 +59,7 @@ const columns = [
     sorter: "default",
     minWidth: 200,
     maxWidth: 400,
+    className: "defaultStyle",
   },
   {
     title: "開關機狀態",
@@ -71,6 +74,7 @@ const columns = [
     key: "VM所在平台",
     minWidth: 200,
     maxWidth: 400,
+    className: "defaultStyle",
   },
   {
     title: "VM附註",
@@ -78,6 +82,7 @@ const columns = [
     // resizable: true,
     minWidth: 100,
     maxWidth: 200,
+    className: "defaultStyle",
   },
   {
     title: "OS版本",
@@ -86,15 +91,28 @@ const columns = [
     sorter: "default",
     minWidth: 300,
     maxWidth: 400,
+    className: "defaultStyle",
   },
 ]
 
 const handleSearchVal = () => {
   useSearch(searchVal.value, counter.FetchData.data)
+  searchResultLength.value = useSearch(
+    searchVal.value,
+    counter.FetchData.data
+  ).length
+}
+
+const rowClassName = (row) => {
+  // console.log(row)
+  if (row["開關機狀態"] == "poweredOff") {
+    return "powered-off"
+  }
+  return "powered-on"
 }
 
 onMounted(() => {
-  useFetch("http://192.168.68.71:3094/")
+  useFetch("http://192.168.68.22:666/")
   // counter.storeFetchData(vmlist)
   // counter.storePoweredOffAmount()
 })
@@ -102,7 +120,7 @@ onMounted(() => {
 
 <template lang="pug">
 .header
-  a.created(href = "mailto: fixer2@cdc.gov.tw")
+  //- a.created(href = "mailto: fixer2@cdc.gov.tw")
     h4 created by 
      span ZZ
   .title
@@ -118,16 +136,32 @@ onMounted(() => {
       h4 關機狀態數量:
       h3 {{ poweredOffAmount }}
     .search.item
-      h4 搜索任意項:
+      h4 搜索任意項: 
       n-input(v-model:value="searchVal" round placeholder="請輸入" @change='handleSearchVal' @keyup='handleSearchVal' size="small")
-
-
-n-data-table(ref='dataTableInst' :columns="columns" :data="data" :max-height="480")
-//- n-data-table(ref='dataTableInst' :columns="columns" :data="data" :pagination="pagination")
+      h6 符合條件筆數: {{searchResultLength}}
+    
+.data-table
+  n-data-table(ref='dataTableInst' :columns="columns" :data="data" :max-height="460" :row-class-name="rowClassName" :pagination="{ pageSize: 20 ,size:'medium'}" )
+  a.created(href = "mailto: fixer2@cdc.gov.tw")
+    h4 created by 
+      span ZZ
 
 </template>
 
 <style lang="stylus" scoped>
+:deep(.powered-off td)
+  color #ff004c !important
+
+:deep(.powered-on td)
+  color #37b24d !important
+
+:deep(.powered-off .defaultStyle)
+  color #000000 !important
+  // font-weight 900
+:deep(.powered-on .defaultStyle)
+  color #000000 !important
+  // font-weight 900
+
 .header
   padding 1rem
   // border 1px solid #000
@@ -157,9 +191,11 @@ n-data-table(ref='dataTableInst' :columns="columns" :data="data" :max-height="48
       color #8ce99a
     .powered-off h3
       color #ff004c
+    .search h6
+      padding-left 4px
   .created
     position absolute
-    right 1rem
+    left 1rem
     bottom 2px
     text-decoration none
     color color_black
@@ -168,7 +204,25 @@ n-data-table(ref='dataTableInst' :columns="columns" :data="data" :max-height="48
       span
         font-weight 900
 
-.n-data-table
-  padding 0 1rem
+
+.data-table
+  position relative
   box-sizing border-box
+  .n-data-table
+    padding 0 1rem
+    box-sizing border-box
+  .created
+    // border 1px solid #000
+    position absolute
+    left 1rem
+    bottom 2px
+    text-decoration none
+    color color_black
+    h4
+      font-weight normal
+      span
+        font-weight 900
+
+
+// @media screen and (max-width:1024px)
 </style>

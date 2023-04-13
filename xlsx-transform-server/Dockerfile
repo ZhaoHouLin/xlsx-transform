@@ -1,9 +1,9 @@
 FROM node:8-alpine
 
-COPY . /backend
-WORKDIR /backend
+COPY . /workspace
+WORKDIR /workspace
 # RUN npm install
 
-EXPOSE 3094
+EXPOSE 666
 
 CMD npm start

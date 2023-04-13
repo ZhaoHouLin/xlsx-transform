@@ -11,8 +11,10 @@
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
+    "json2xls": "^0.1.2",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
+    "xlsx": "^0.18.5",
     "xlsx2json": "^1.0.0"
   },
   "devDependencies": {

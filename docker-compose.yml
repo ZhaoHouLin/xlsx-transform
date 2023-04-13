@@ -3,7 +3,7 @@ services:
   xlsx-transform-server:
     build: ./xlsx-transform-server
     ports:
-      - "3094:3094"
+      - "666:666"
   vmlist-web:
     build: ./
     ports:
