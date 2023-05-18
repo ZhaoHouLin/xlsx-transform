@@ -141,7 +141,7 @@ onMounted(() => {
       h6 符合條件筆數: {{searchResultLength}}
     
 .data-table
-  n-data-table(ref='dataTableInst' :columns="columns" :data="data" :max-height="460" :row-class-name="rowClassName" :pagination="{ pageSize: 20 ,size:'medium'}" )
+  n-data-table(ref='dataTableInst' :columns="columns" :data="data"  :row-class-name="rowClassName" :pagination="{ pageSize: 30 ,size:'medium'}" )
   a.created(href = "mailto: fixer2@cdc.gov.tw")
     h4 created by 
       span ZZ
@@ -210,19 +210,19 @@ onMounted(() => {
   box-sizing border-box
   .n-data-table
     padding 0 1rem
+    padding-bottom 1rem
     box-sizing border-box
   .created
     // border 1px solid #000
     position absolute
     left 1rem
-    bottom 2px
+    bottom 1rem
     text-decoration none
     color color_black
     h4
       font-weight normal
       span
         font-weight 900
-
 
 // @media screen and (max-width:1024px)
 </style>
