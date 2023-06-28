@@ -2,7 +2,7 @@
 import { RouterLink, RouterView } from "vue-router"
 import { NConfigProvider } from "naive-ui"
 import DataTable from "./components/DataTable.vue"
-
+import InfoLog from "./components/InfoLog.vue"
 const color_primary = "#22b8cf"
 
 const themeOverrides = {
@@ -19,6 +19,7 @@ const themeOverrides = {
 
 <template lang="pug">
 n-config-provider(:theme-overrides='themeOverrides' )
+  InfoLog
   DataTable
 //- RouterView
 </template>
