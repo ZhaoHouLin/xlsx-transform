@@ -78,6 +78,8 @@ const columns = [
     key: "VM所在平台",
     minWidth: 200,
     maxWidth: 400,
+    defaultSortOrder: "ascend",
+    sorter: "default",
     className: "defaultStyle",
   },
   {
@@ -86,6 +88,8 @@ const columns = [
     // resizable: true,
     minWidth: 100,
     maxWidth: 200,
+    defaultSortOrder: "ascend",
+    sorter: "default",
     className: "defaultStyle",
   },
   {
@@ -132,7 +136,8 @@ const rowClassName = (row) => {
 }
 
 onMounted(() => {
-  useFetch("http://192.168.68.22:666/")
+  // useFetch("http://192.168.68.22:666/")
+  useFetch("https://vm-list.cdc.gov.tw/")
   // counter.storeFetchData(vmlist)
   // counter.storePoweredOffAmount()
 })
@@ -156,7 +161,6 @@ onMounted(() => {
       h4 關機狀態數量:
       h3 {{ poweredOffAmount }}
     .search.item
-      
       .normal(v-if="searchStatus")
         h4 任意搜尋: 
         .input

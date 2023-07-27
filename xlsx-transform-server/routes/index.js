@@ -4,7 +4,10 @@ var router = express.Router()
 const fs = require('fs')
 const XLSX = require("xlsx")
 
-const filePath = 'D:/VMList-xlsx/vmlist.xlsx'
+// const filePath = 'D:/VMList-xlsx/vmlist.xlsx'
+const filePath = 'C:/Web/CDC-VM-List-data/vmlist.xlsx'
+
+
 
 const workbook = XLSX.readFileSync(filePath)
 const ws = workbook.Sheets[workbook.SheetNames[0]]

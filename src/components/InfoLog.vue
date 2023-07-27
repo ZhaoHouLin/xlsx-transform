@@ -22,10 +22,13 @@ NModal(v-model:show="showModal"
         span ZZ
 
   .content
+    NH4( type="primary") - 2023/07/27
+    NH5(prefix="bar" type="primary" ) 主機移轉
     NH4( type="primary") - 2023/06/28
       //- NText 2023/06/28 - 增加完全比對的搜尋功能
     NH5(prefix="bar" type="primary" ) 增加完全比對的搜尋功能
     NH5(prefix="bar" type="primary" ) 增加更新日誌
+
     NH6(prefix="bar" type="info") 
       a.created(href = "mailto: fixer2@cdc.gov.tw")
         h6 updated by 
