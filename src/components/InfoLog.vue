@@ -12,7 +12,7 @@ const showModal = ref(false)
 NModal(v-model:show="showModal"
     class="custom-card"
     preset="card"
-    title="CDC虛擬機清單 v1.0.0 更新日誌"
+    title="CDC虛擬機清單更新日誌"
     size="huge"
     :bordered="false"
 )
@@ -22,6 +22,8 @@ NModal(v-model:show="showModal"
         span ZZ
 
   .content
+    NH4( type="primary") - 2023/09/20
+    NH5(prefix="bar" type="primary" ) v1.0.1 製作資料載入動畫
     NH4( type="primary") - 2023/07/27
     NH5(prefix="bar" type="primary" ) 主機移轉
     NH4( type="primary") - 2023/06/28

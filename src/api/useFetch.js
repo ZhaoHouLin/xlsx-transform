@@ -15,6 +15,7 @@ export const Fetchs = (API_URL = '') => {
     .then(res => {
       isLoad.value = true
       counter.storeFetchData(res.data)
+      counter.handleFetchLoad(isLoad.value)
       counter.storePoweredOffAmount()
     })
     .catch(error => {

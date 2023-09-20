@@ -42,6 +42,12 @@ const poweredOnAmount = computed(() => {
   return counter.FetchData.data.length - counter.poweredOffAmount
 })
 
+// const fetch = useFetch("https://vm-list.cdc.gov.tw/")
+
+// const isLoad = computed(
+//   () => useFetch("https://vm-list.cdc.gov.tw/").isLoad.value
+// )
+
 const dataTableInst = ref(null)
 // const pagination = ref({ pageSize: 30 })
 
@@ -136,18 +142,12 @@ const rowClassName = (row) => {
 }
 
 onMounted(() => {
-  // useFetch("http://192.168.68.22:666/")
   useFetch("https://vm-list.cdc.gov.tw/")
-  // counter.storeFetchData(vmlist)
-  // counter.storePoweredOffAmount()
 })
 </script>
 
 <template lang="pug">
 .header
-  //- a.created(href = "mailto: fixer2@cdc.gov.tw")
-    h4 created by 
-     span ZZ
   .title
     a(href="") 疾病管制署虛擬機清單
   .info 
@@ -212,7 +212,7 @@ onMounted(() => {
     a
       text-decoration none
       font-size 2rem
-      color #22b8cf
+      color colorPrimary
   .info
     flex()
     // flex(space-between,,)
@@ -220,7 +220,7 @@ onMounted(() => {
     input
       height 16px
     .total h3
-      color #22b8cf
+      color colorPrimary
     .powered-on h3
       color #8ce99a
     .powered-off h3
