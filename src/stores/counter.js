@@ -6,6 +6,8 @@ export const useCounterStore = defineStore('counter', () => {
 
   const FetchData = reactive({ data: [] })
 
+  const fetchIsLoad = ref(false)
+
   const poweredOffAmount = ref()
 
   const storeFetchData = (data) => {
@@ -29,20 +31,9 @@ export const useCounterStore = defineStore('counter', () => {
     FetchData.data = result
   }
 
-  // const storeFetchData = (data) => {
-  //   const result = data.map((item) => {
-  //     const formData = {
-  //       'VM名稱': item['VM名稱'],
-  //       'VM IP': item['VM IP'],
-  //       '開關機狀態': item['開關機狀態'],
-  //       'VM所在平台': item['VM所在平台'],
-  //       'VM附註': item['VM附註'],
-  //       'OS版本': item['OS版本']
-  //     }
-  //     return formData
-  //   })
-  //   FetchData.data = result
-  // }
+  const handleFetchLoad = (boolean) => {
+    fetchIsLoad.value = boolean
+  }
 
   const storePoweredOffAmount = () => {
     const poweredOffArr = []
@@ -52,5 +43,5 @@ export const useCounterStore = defineStore('counter', () => {
     poweredOffAmount.value = poweredOffArr.length
   }
 
-  return { FetchData, storeFetchData, poweredOffAmount, storePoweredOffAmount }
+  return { FetchData, fetchIsLoad, storeFetchData, poweredOffAmount, storePoweredOffAmount, handleFetchLoad }
 })
