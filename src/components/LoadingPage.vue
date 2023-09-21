@@ -28,7 +28,10 @@ const isLoad = computed(() => {
 })
 
 const handleShow = (event) => {
-  if (canEnterVal.value) {
+  if (
+    (canEnterVal.value && event.type == "keydown") ||
+    (canEnterVal.value && event.type == "click")
+  ) {
     gsap.to(".loading-page", {
       display: "none",
       opacity: 0,
