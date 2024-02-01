@@ -142,7 +142,7 @@ const rowClassName = (row) => {
 }
 
 onMounted(() => {
-  useFetch("https://vm-list.cdc.gov.tw/")
+  useFetch(`http://localhost:666/`)
 })
 </script>
 

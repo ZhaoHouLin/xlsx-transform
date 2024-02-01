@@ -1,10 +1,12 @@
 import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'
-import express from 'vite-plugin-express'
 
 import vue from '@vitejs/plugin-vue'
 import path from 'node:path'
+
+import dotenv from 'dotenv'
+dotenv.config({ path: `.env.${process.env.NODE_ENV}` })
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -20,4 +22,8 @@ export default defineConfig({
       }
     }
   },
+  // base: process.env.VITE_BASE_PATH,
+  build: {
+    chunkSizeWarningLimit: 1500
+  }
 })
